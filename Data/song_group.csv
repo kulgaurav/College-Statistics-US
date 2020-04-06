@@ -1,0 +1,884 @@
+year,genre,subgenre,playlist_subgenre_count,track_popularity_median
+1957,r&b,urban contemporary,1,59
+1957,rock,classic rock,1,1
+1958,rock,classic rock,1,73
+1960,r&b,neo soul,2,13
+1960,r&b,urban contemporary,2,19
+1961,r&b,urban contemporary,1,47
+1962,r&b,urban contemporary,1,64
+1962,rock,classic rock,1,64
+1963,r&b,neo soul,1,73
+1963,rock,album rock,1,59
+1963,rock,classic rock,2,35.5
+1963,rock,hard rock,1,15
+1964,r&b,neo soul,1,45
+1964,rock,album rock,2,15.5
+1964,rock,classic rock,4,40.5
+1964,rock,permanent wave,2,71.5
+1965,latin,latin hip hop,1,26
+1965,r&b,urban contemporary,3,40
+1965,rock,album rock,1,76
+1965,rock,classic rock,4,72
+1965,rock,hard rock,1,1
+1965,rock,permanent wave,2,38.5
+1966,r&b,neo soul,1,66
+1966,r&b,urban contemporary,2,37
+1966,rock,album rock,4,60.5
+1966,rock,classic rock,9,59
+1966,rock,hard rock,1,73
+1966,rock,permanent wave,2,63.5
+1967,r&b,neo soul,3,54
+1967,r&b,urban contemporary,2,66
+1967,rap,southern hip hop,1,79
+1967,rock,album rock,9,67
+1967,rock,classic rock,15,69
+1967,rock,hard rock,5,3
+1967,rock,permanent wave,6,32.5
+1968,r&b,neo soul,1,48
+1968,r&b,urban contemporary,1,72
+1968,rap,southern hip hop,2,53.5
+1968,rock,album rock,5,67
+1968,rock,classic rock,8,64.5
+1968,rock,hard rock,3,62
+1968,rock,permanent wave,3,54
+1969,pop,post-teen pop,1,80
+1969,r&b,urban contemporary,4,60.5
+1969,rap,southern hip hop,1,38
+1969,rock,album rock,11,60
+1969,rock,classic rock,29,60
+1969,rock,hard rock,7,48
+1969,rock,permanent wave,3,61
+1970,pop,post-teen pop,1,77
+1970,r&b,neo soul,1,69
+1970,r&b,urban contemporary,6,59
+1970,rap,southern hip hop,2,12
+1970,rock,album rock,25,45
+1970,rock,classic rock,26,56
+1970,rock,hard rock,7,47
+1970,rock,permanent wave,14,66
+1971,r&b,neo soul,1,76
+1971,r&b,urban contemporary,3,50
+1971,rap,southern hip hop,1,3
+1971,rock,album rock,22,47.5
+1971,rock,classic rock,23,56
+1971,rock,hard rock,15,41
+1971,rock,permanent wave,6,60.5
+1972,r&b,urban contemporary,5,55
+1972,rap,southern hip hop,1,52
+1972,rock,album rock,11,69
+1972,rock,classic rock,37,58
+1972,rock,hard rock,9,41
+1972,rock,permanent wave,11,66
+1973,pop,post-teen pop,1,75
+1973,r&b,urban contemporary,5,52
+1973,rap,southern hip hop,1,38
+1973,rock,album rock,36,36.5
+1973,rock,classic rock,35,61
+1973,rock,hard rock,14,50
+1973,rock,permanent wave,12,69
+1974,pop,post-teen pop,1,27
+1974,r&b,urban contemporary,10,47
+1974,rap,southern hip hop,2,64.5
+1974,rock,album rock,37,35
+1974,rock,classic rock,17,56
+1974,rock,hard rock,10,17
+1974,rock,permanent wave,3,59
+1975,pop,electropop,1,51
+1975,r&b,neo soul,1,60
+1975,r&b,urban contemporary,7,59
+1975,rock,album rock,33,53
+1975,rock,classic rock,40,59.5
+1975,rock,hard rock,18,50
+1975,rock,permanent wave,8,63
+1976,latin,latin hip hop,1,72
+1976,pop,post-teen pop,2,76
+1976,r&b,urban contemporary,9,51
+1976,rap,southern hip hop,1,36
+1976,rock,album rock,34,38.5
+1976,rock,classic rock,63,55
+1976,rock,hard rock,18,28.5
+1976,rock,permanent wave,5,64
+1977,edm,progressive electro house,1,0
+1977,pop,post-teen pop,1,62
+1977,r&b,urban contemporary,3,37
+1977,rock,album rock,25,49
+1977,rock,classic rock,46,60.5
+1977,rock,hard rock,13,21
+1977,rock,permanent wave,11,67
+1978,edm,progressive electro house,1,41
+1978,pop,electropop,3,36
+1978,pop,post-teen pop,4,69.5
+1978,r&b,urban contemporary,5,61
+1978,rap,southern hip hop,1,72
+1978,rock,album rock,38,40.5
+1978,rock,classic rock,51,56
+1978,rock,hard rock,14,39.5
+1978,rock,permanent wave,13,64
+1979,edm,progressive electro house,2,27.5
+1979,latin,latin hip hop,2,63
+1979,latin,latin pop,1,55
+1979,pop,electropop,2,62
+1979,pop,post-teen pop,2,70.5
+1979,r&b,neo soul,3,25
+1979,r&b,new jack swing,1,48
+1979,r&b,urban contemporary,1,70
+1979,rock,album rock,12,61
+1979,rock,classic rock,30,61.5
+1979,rock,hard rock,13,18
+1979,rock,permanent wave,15,62
+1980,edm,progressive electro house,1,29
+1980,pop,electropop,4,44
+1980,pop,post-teen pop,2,77
+1980,r&b,new jack swing,1,58
+1980,r&b,urban contemporary,4,65.5
+1980,rock,album rock,20,52
+1980,rock,classic rock,31,65
+1980,rock,hard rock,20,45
+1980,rock,permanent wave,14,53.5
+1981,edm,progressive electro house,1,69
+1981,latin,latin hip hop,1,42
+1981,pop,electropop,12,25
+1981,pop,post-teen pop,2,66.5
+1981,r&b,neo soul,1,32
+1981,r&b,urban contemporary,2,68.5
+1981,rap,southern hip hop,2,36
+1981,rock,album rock,12,65
+1981,rock,classic rock,33,58
+1981,rock,hard rock,6,3.5
+1981,rock,permanent wave,15,57
+1982,edm,progressive electro house,2,43.5
+1982,latin,latin hip hop,3,66
+1982,latin,latin pop,1,55
+1982,pop,electropop,5,44
+1982,pop,post-teen pop,3,61
+1982,r&b,new jack swing,3,57
+1982,r&b,urban contemporary,2,53.5
+1982,rap,southern hip hop,2,62.5
+1982,rock,album rock,22,47.5
+1982,rock,classic rock,21,56
+1982,rock,hard rock,16,34
+1982,rock,permanent wave,14,61.5
+1983,edm,progressive electro house,1,2
+1983,latin,latin hip hop,2,26
+1983,pop,electropop,11,49
+1983,pop,post-teen pop,2,74
+1983,r&b,neo soul,6,37.5
+1983,r&b,urban contemporary,1,65
+1983,rap,southern hip hop,1,39
+1983,rock,album rock,21,42
+1983,rock,classic rock,24,65
+1983,rock,hard rock,24,54.5
+1983,rock,permanent wave,25,60
+1984,latin,latin pop,2,36.5
+1984,pop,electropop,14,52
+1984,pop,post-teen pop,5,26
+1984,r&b,hip pop,1,29
+1984,r&b,neo soul,3,32
+1984,r&b,new jack swing,5,61
+1984,r&b,urban contemporary,1,53
+1984,rap,southern hip hop,1,43
+1984,rock,album rock,38,25.5
+1984,rock,classic rock,25,67
+1984,rock,hard rock,22,15
+1984,rock,permanent wave,23,58
+1985,latin,latin hip hop,3,44
+1985,latin,latin pop,3,40
+1985,pop,electropop,6,35
+1985,pop,indie poptimism,1,66
+1985,pop,post-teen pop,2,76.5
+1985,r&b,neo soul,4,35
+1985,r&b,new jack swing,9,52
+1985,r&b,urban contemporary,2,58.5
+1985,rap,southern hip hop,3,46
+1985,rock,album rock,60,32
+1985,rock,classic rock,13,62
+1985,rock,hard rock,10,58
+1985,rock,permanent wave,28,53
+1986,latin,latin hip hop,5,30
+1986,pop,electropop,9,14
+1986,pop,post-teen pop,2,20
+1986,r&b,neo soul,4,39
+1986,r&b,new jack swing,21,33
+1986,r&b,urban contemporary,3,51
+1986,rap,southern hip hop,2,57
+1986,rock,album rock,22,56
+1986,rock,classic rock,14,55.5
+1986,rock,hard rock,17,54
+1986,rock,permanent wave,22,50
+1987,latin,latin hip hop,6,36.5
+1987,latin,latin pop,3,47
+1987,pop,electropop,18,31
+1987,pop,post-teen pop,3,19
+1987,r&b,neo soul,7,29
+1987,r&b,new jack swing,22,48.5
+1987,r&b,urban contemporary,2,2
+1987,rap,gangster rap,2,57.5
+1987,rap,southern hip hop,6,47.5
+1987,rock,album rock,31,50
+1987,rock,classic rock,26,20.5
+1987,rock,hard rock,26,32.5
+1987,rock,permanent wave,31,57
+1988,latin,latin hip hop,13,37
+1988,latin,latin pop,3,73
+1988,pop,electropop,8,66
+1988,pop,post-teen pop,1,35
+1988,r&b,neo soul,3,5
+1988,r&b,new jack swing,55,39
+1988,r&b,urban contemporary,4,53.5
+1988,rap,gangster rap,14,50
+1988,rap,southern hip hop,21,44
+1988,rock,album rock,14,59
+1988,rock,classic rock,14,56.5
+1988,rock,hard rock,22,50.5
+1988,rock,permanent wave,21,56
+1989,latin,latin hip hop,5,41
+1989,latin,latin pop,6,43.5
+1989,pop,electropop,10,54
+1989,r&b,neo soul,1,0
+1989,r&b,new jack swing,45,36
+1989,r&b,urban contemporary,1,53
+1989,rap,gangster rap,1,51
+1989,rap,southern hip hop,4,42.5
+1989,rock,album rock,10,58.5
+1989,rock,classic rock,13,65
+1989,rock,hard rock,17,59
+1989,rock,permanent wave,16,60.5
+1990,edm,progressive electro house,1,35
+1990,latin,latin hip hop,4,31
+1990,latin,latin pop,10,51
+1990,latin,tropical,3,64
+1990,pop,dance pop,2,55
+1990,pop,electropop,12,41
+1990,pop,post-teen pop,2,70.5
+1990,r&b,neo soul,2,53
+1990,r&b,new jack swing,70,30
+1990,r&b,urban contemporary,5,54
+1990,rap,gangster rap,6,51
+1990,rap,southern hip hop,8,34
+1990,rock,album rock,8,56
+1990,rock,classic rock,13,49
+1990,rock,hard rock,12,57
+1990,rock,permanent wave,13,56
+1991,edm,progressive electro house,1,15
+1991,latin,latin hip hop,9,35
+1991,latin,latin pop,2,49.5
+1991,latin,reggaeton,1,60
+1991,pop,dance pop,1,12
+1991,pop,electropop,5,0
+1991,pop,post-teen pop,1,81
+1991,r&b,hip pop,1,25
+1991,r&b,neo soul,3,51
+1991,r&b,new jack swing,77,28
+1991,r&b,urban contemporary,3,57
+1991,rap,gangster rap,9,46
+1991,rap,southern hip hop,16,46.5
+1991,rock,album rock,17,6
+1991,rock,classic rock,21,59
+1991,rock,hard rock,18,24
+1991,rock,permanent wave,24,68.5
+1992,latin,latin pop,3,60
+1992,pop,dance pop,4,42
+1992,pop,electropop,2,39
+1992,r&b,hip pop,3,2
+1992,r&b,neo soul,8,46.5
+1992,r&b,new jack swing,82,27
+1992,r&b,urban contemporary,4,57
+1992,rap,gangster rap,8,41.5
+1992,rap,southern hip hop,33,39
+1992,rock,album rock,10,42.5
+1992,rock,classic rock,6,57.5
+1992,rock,hard rock,7,57
+1992,rock,permanent wave,16,64
+1993,edm,progressive electro house,1,31
+1993,latin,latin hip hop,4,47
+1993,latin,latin pop,9,51
+1993,pop,dance pop,5,54
+1993,pop,electropop,1,68
+1993,pop,post-teen pop,1,68
+1993,r&b,neo soul,11,36
+1993,r&b,new jack swing,64,30.5
+1993,r&b,urban contemporary,5,59
+1993,rap,gangster rap,30,55.5
+1993,rap,southern hip hop,42,55.5
+1993,rock,album rock,20,46
+1993,rock,classic rock,11,20
+1993,rock,hard rock,6,14.5
+1993,rock,permanent wave,14,65.5
+1994,edm,progressive electro house,1,33
+1994,latin,latin hip hop,8,0
+1994,latin,latin pop,3,34
+1994,pop,dance pop,11,53
+1994,pop,electropop,3,38
+1994,pop,post-teen pop,1,79
+1994,r&b,hip pop,4,55.5
+1994,r&b,neo soul,4,50.5
+1994,r&b,new jack swing,56,29
+1994,r&b,urban contemporary,8,40.5
+1994,rap,gangster rap,32,55
+1994,rap,southern hip hop,48,53
+1994,rock,album rock,20,49.5
+1994,rock,classic rock,7,42
+1994,rock,hard rock,5,38
+1994,rock,permanent wave,26,63
+1995,edm,big room,1,33
+1995,latin,latin hip hop,6,28
+1995,latin,latin pop,10,51
+1995,latin,tropical,2,59
+1995,pop,dance pop,9,49
+1995,pop,electropop,1,40
+1995,pop,indie poptimism,1,3
+1995,pop,post-teen pop,2,75
+1995,r&b,hip pop,3,19
+1995,r&b,neo soul,14,33.5
+1995,r&b,new jack swing,43,38
+1995,r&b,urban contemporary,4,55.5
+1995,rap,gangster rap,23,56
+1995,rap,hip hop,1,73
+1995,rap,southern hip hop,51,48
+1995,rock,album rock,2,22.5
+1995,rock,classic rock,13,21
+1995,rock,hard rock,7,53
+1995,rock,permanent wave,26,60.5
+1996,edm,big room,1,42
+1996,latin,latin hip hop,10,0
+1996,latin,latin pop,2,22.5
+1996,latin,tropical,1,64
+1996,pop,dance pop,6,55.5
+1996,pop,electropop,8,51
+1996,pop,post-teen pop,3,73
+1996,r&b,hip pop,1,76
+1996,r&b,neo soul,19,38
+1996,r&b,new jack swing,60,40
+1996,r&b,urban contemporary,9,61
+1996,rap,gangster rap,39,56
+1996,rap,hip hop,1,77
+1996,rap,southern hip hop,55,44
+1996,rock,album rock,7,47
+1996,rock,classic rock,7,41
+1996,rock,hard rock,9,3
+1996,rock,permanent wave,12,62.5
+1997,latin,latin hip hop,9,36
+1997,latin,latin pop,7,12
+1997,latin,tropical,7,53
+1997,pop,dance pop,3,54
+1997,pop,electropop,7,41
+1997,pop,post-teen pop,2,23.5
+1997,r&b,hip pop,7,67
+1997,r&b,neo soul,26,35
+1997,r&b,new jack swing,44,36
+1997,r&b,urban contemporary,12,60
+1997,rap,gangster rap,23,47
+1997,rap,southern hip hop,26,35.5
+1997,rock,album rock,24,18
+1997,rock,classic rock,12,55
+1997,rock,hard rock,9,36
+1997,rock,permanent wave,35,64
+1998,edm,progressive electro house,1,52
+1998,latin,latin hip hop,10,38.5
+1998,latin,latin pop,7,66
+1998,latin,tropical,4,60
+1998,pop,dance pop,3,62
+1998,pop,electropop,8,35.5
+1998,pop,post-teen pop,2,66.5
+1998,r&b,hip pop,1,66
+1998,r&b,neo soul,25,14
+1998,r&b,new jack swing,28,44
+1998,r&b,urban contemporary,11,57
+1998,rap,gangster rap,36,41.5
+1998,rap,hip hop,1,63
+1998,rap,southern hip hop,74,24.5
+1998,rock,album rock,12,38.5
+1998,rock,classic rock,14,7.5
+1998,rock,hard rock,20,41
+1998,rock,permanent wave,26,66
+1999,edm,big room,1,57
+1999,edm,electro house,2,47.5
+1999,latin,latin hip hop,21,44
+1999,latin,latin pop,4,30.5
+1999,latin,reggaeton,1,51
+1999,pop,dance pop,7,16
+1999,pop,electropop,5,62
+1999,pop,post-teen pop,6,44
+1999,r&b,hip pop,11,70
+1999,r&b,neo soul,19,35
+1999,r&b,new jack swing,32,43.5
+1999,r&b,urban contemporary,13,58
+1999,rap,gangster rap,40,34
+1999,rap,hip hop,4,55.5
+1999,rap,southern hip hop,45,28
+1999,rock,album rock,12,53
+1999,rock,classic rock,12,51.5
+1999,rock,hard rock,16,62
+1999,rock,permanent wave,27,61
+2000,edm,big room,1,60
+2000,edm,pop edm,1,71
+2000,edm,progressive electro house,2,47
+2000,latin,latin hip hop,5,18
+2000,latin,latin pop,7,45
+2000,latin,tropical,2,63
+2000,pop,dance pop,5,49
+2000,pop,electropop,2,45
+2000,pop,indie poptimism,1,57
+2000,pop,post-teen pop,1,76
+2000,r&b,hip pop,7,17
+2000,r&b,neo soul,39,44
+2000,r&b,new jack swing,41,18
+2000,r&b,urban contemporary,14,38.5
+2000,rap,gangster rap,13,2
+2000,rap,hip hop,6,55.5
+2000,rap,southern hip hop,35,33
+2000,rock,album rock,6,37.5
+2000,rock,classic rock,16,19
+2000,rock,hard rock,25,20
+2000,rock,permanent wave,21,66
+2001,edm,progressive electro house,3,61
+2001,latin,latin hip hop,15,19
+2001,latin,latin pop,10,59.5
+2001,latin,tropical,1,68
+2001,pop,dance pop,1,46
+2001,pop,electropop,20,28.5
+2001,pop,indie poptimism,1,75
+2001,pop,post-teen pop,11,64
+2001,r&b,hip pop,17,61
+2001,r&b,neo soul,26,35
+2001,r&b,new jack swing,40,30.5
+2001,r&b,urban contemporary,14,53.5
+2001,rap,gangster rap,24,20
+2001,rap,hip hop,3,54
+2001,rap,southern hip hop,32,38
+2001,rock,album rock,15,13
+2001,rock,classic rock,20,48.5
+2001,rock,hard rock,31,10
+2001,rock,permanent wave,28,68
+2002,edm,big room,2,54
+2002,edm,electro house,1,48
+2002,edm,progressive electro house,1,34
+2002,latin,latin hip hop,6,44.5
+2002,latin,latin pop,10,64
+2002,latin,reggaeton,2,61
+2002,latin,tropical,1,69
+2002,pop,dance pop,1,64
+2002,pop,electropop,10,36
+2002,pop,indie poptimism,2,36
+2002,pop,post-teen pop,10,69.5
+2002,r&b,hip pop,21,62
+2002,r&b,neo soul,34,40.5
+2002,r&b,new jack swing,34,14
+2002,r&b,urban contemporary,11,53
+2002,rap,gangster rap,10,6.5
+2002,rap,hip hop,7,60
+2002,rap,southern hip hop,37,38
+2002,rock,album rock,10,44.5
+2002,rock,classic rock,11,26
+2002,rock,hard rock,12,55.5
+2002,rock,permanent wave,26,61.5
+2003,edm,big room,1,69
+2003,edm,progressive electro house,4,15.5
+2003,latin,latin hip hop,22,25
+2003,latin,latin pop,9,46
+2003,latin,reggaeton,16,55
+2003,pop,dance pop,1,63
+2003,pop,electropop,11,36
+2003,pop,indie poptimism,3,9
+2003,pop,post-teen pop,13,53
+2003,r&b,hip pop,17,61
+2003,r&b,neo soul,42,27.5
+2003,r&b,new jack swing,31,28
+2003,r&b,urban contemporary,13,60
+2003,rap,gangster rap,40,43
+2003,rap,hip hop,8,57
+2003,rap,southern hip hop,50,34
+2003,rock,album rock,14,50
+2003,rock,classic rock,13,36
+2003,rock,hard rock,19,56
+2003,rock,permanent wave,26,62.5
+2004,edm,big room,1,65
+2004,edm,progressive electro house,2,38
+2004,latin,latin hip hop,29,25
+2004,latin,latin pop,15,23
+2004,latin,reggaeton,28,42.5
+2004,latin,tropical,4,49
+2004,pop,electropop,8,39
+2004,pop,indie poptimism,2,62
+2004,pop,post-teen pop,14,68.5
+2004,r&b,hip pop,17,64
+2004,r&b,neo soul,31,26
+2004,r&b,new jack swing,32,30
+2004,r&b,urban contemporary,13,42
+2004,rap,gangster rap,34,38.5
+2004,rap,hip hop,14,58.5
+2004,rap,southern hip hop,42,35
+2004,rock,album rock,12,60.5
+2004,rock,classic rock,32,44
+2004,rock,hard rock,31,46
+2004,rock,permanent wave,24,69
+2005,edm,big room,1,51
+2005,edm,electro house,1,57
+2005,edm,pop edm,1,38
+2005,edm,progressive electro house,5,5
+2005,latin,latin hip hop,25,13
+2005,latin,latin pop,20,52
+2005,latin,reggaeton,23,53
+2005,latin,tropical,1,52
+2005,pop,dance pop,1,57
+2005,pop,electropop,13,24
+2005,pop,post-teen pop,8,67.5
+2005,r&b,hip pop,10,45
+2005,r&b,neo soul,37,25
+2005,r&b,new jack swing,47,6
+2005,r&b,urban contemporary,13,52
+2005,rap,gangster rap,43,2
+2005,rap,hip hop,14,56
+2005,rap,southern hip hop,69,38
+2005,rock,album rock,67,1
+2005,rock,classic rock,43,13
+2005,rock,hard rock,33,45
+2005,rock,permanent wave,33,61
+2006,edm,big room,1,4
+2006,edm,pop edm,1,77
+2006,edm,progressive electro house,14,6
+2006,latin,latin hip hop,15,43
+2006,latin,latin pop,26,44
+2006,latin,reggaeton,45,45
+2006,latin,tropical,6,52
+2006,pop,dance pop,2,48.5
+2006,pop,electropop,34,4.5
+2006,pop,indie poptimism,1,74
+2006,pop,post-teen pop,13,55
+2006,r&b,hip pop,13,36
+2006,r&b,neo soul,42,9
+2006,r&b,new jack swing,16,3.5
+2006,r&b,urban contemporary,14,50.5
+2006,rap,gangster rap,34,26.5
+2006,rap,hip hop,10,57.5
+2006,rap,southern hip hop,57,39
+2006,rock,album rock,21,44
+2006,rock,classic rock,25,46
+2006,rock,hard rock,30,58
+2006,rock,permanent wave,25,67
+2007,edm,big room,1,52
+2007,edm,electro house,1,39
+2007,edm,pop edm,4,73.5
+2007,edm,progressive electro house,23,0
+2007,latin,latin hip hop,35,11
+2007,latin,latin pop,26,47
+2007,latin,reggaeton,37,45
+2007,latin,tropical,3,65
+2007,pop,dance pop,4,40.5
+2007,pop,electropop,21,39
+2007,pop,indie poptimism,4,71
+2007,pop,post-teen pop,21,61
+2007,r&b,hip pop,13,36
+2007,r&b,neo soul,36,16
+2007,r&b,new jack swing,30,20
+2007,r&b,urban contemporary,8,56
+2007,rap,gangster rap,40,35
+2007,rap,hip hop,10,57.5
+2007,rap,southern hip hop,38,42.5
+2007,rock,album rock,31,33
+2007,rock,classic rock,18,34
+2007,rock,hard rock,36,13
+2007,rock,permanent wave,30,64
+2008,edm,electro house,1,51
+2008,edm,pop edm,4,44.5
+2008,edm,progressive electro house,38,2.5
+2008,latin,latin hip hop,69,0
+2008,latin,latin pop,20,45.5
+2008,latin,reggaeton,27,47
+2008,latin,tropical,3,62
+2008,pop,dance pop,10,50.5
+2008,pop,electropop,28,32
+2008,pop,indie poptimism,8,40.5
+2008,pop,post-teen pop,66,40
+2008,r&b,hip pop,18,36
+2008,r&b,neo soul,76,7.5
+2008,r&b,new jack swing,19,9
+2008,r&b,urban contemporary,18,38.5
+2008,rap,gangster rap,22,25.5
+2008,rap,hip hop,9,68
+2008,rap,southern hip hop,44,35
+2008,rock,album rock,23,36
+2008,rock,classic rock,49,1
+2008,rock,hard rock,47,5
+2008,rock,permanent wave,23,56
+2009,edm,big room,1,2
+2009,edm,electro house,6,45.5
+2009,edm,pop edm,6,28.5
+2009,edm,progressive electro house,32,0.5
+2009,latin,latin hip hop,50,52.5
+2009,latin,latin pop,23,44
+2009,latin,reggaeton,39,47
+2009,latin,tropical,6,8.5
+2009,pop,dance pop,9,7
+2009,pop,electropop,32,1
+2009,pop,indie poptimism,12,63
+2009,pop,post-teen pop,42,43
+2009,r&b,hip pop,7,36
+2009,r&b,neo soul,41,4
+2009,r&b,new jack swing,17,1
+2009,r&b,urban contemporary,4,33
+2009,rap,gangster rap,18,0
+2009,rap,hip hop,9,56
+2009,rap,southern hip hop,31,25
+2009,rock,album rock,14,25
+2009,rock,classic rock,27,2
+2009,rock,hard rock,33,8
+2009,rock,permanent wave,14,59.5
+2010,edm,big room,3,60
+2010,edm,electro house,6,45
+2010,edm,pop edm,15,71
+2010,edm,progressive electro house,13,2
+2010,latin,latin hip hop,59,61
+2010,latin,latin pop,27,45
+2010,latin,reggaeton,34,48
+2010,latin,tropical,6,53
+2010,pop,dance pop,19,54
+2010,pop,electropop,61,26
+2010,pop,indie poptimism,10,29
+2010,pop,post-teen pop,83,55
+2010,r&b,hip pop,24,48
+2010,r&b,neo soul,29,30
+2010,r&b,new jack swing,13,25
+2010,r&b,urban contemporary,19,8
+2010,rap,gangster rap,34,24
+2010,rap,hip hop,6,64
+2010,rap,southern hip hop,34,24.5
+2010,rock,album rock,38,0
+2010,rock,classic rock,36,21
+2010,rock,hard rock,34,30.5
+2010,rock,permanent wave,12,58
+2011,edm,big room,10,39.5
+2011,edm,electro house,10,39
+2011,edm,pop edm,21,58
+2011,edm,progressive electro house,33,20
+2011,latin,latin hip hop,44,53.5
+2011,latin,latin pop,19,45
+2011,latin,reggaeton,20,4.5
+2011,latin,tropical,1,52
+2011,pop,dance pop,17,62
+2011,pop,electropop,51,41
+2011,pop,indie poptimism,12,65.5
+2011,pop,post-teen pop,64,55.5
+2011,r&b,hip pop,16,56.5
+2011,r&b,neo soul,59,24
+2011,r&b,new jack swing,16,6
+2011,r&b,urban contemporary,34,29
+2011,rap,gangster rap,37,31
+2011,rap,southern hip hop,43,32
+2011,rock,album rock,14,38.5
+2011,rock,classic rock,19,34
+2011,rock,hard rock,42,44.5
+2011,rock,permanent wave,22,64
+2012,edm,big room,12,28.5
+2012,edm,electro house,21,44
+2012,edm,pop edm,42,67.5
+2012,edm,progressive electro house,95,25
+2012,latin,latin hip hop,60,43
+2012,latin,latin pop,37,32
+2012,latin,reggaeton,35,49
+2012,latin,tropical,1,62
+2012,pop,dance pop,25,63
+2012,pop,electropop,63,55
+2012,pop,indie poptimism,34,55.5
+2012,pop,post-teen pop,54,70
+2012,r&b,hip pop,26,51
+2012,r&b,neo soul,58,28
+2012,r&b,new jack swing,15,4
+2012,r&b,urban contemporary,28,60
+2012,rap,gangster rap,29,43
+2012,rap,hip hop,1,68
+2012,rap,southern hip hop,83,27
+2012,rap,trap,4,54.5
+2012,rock,album rock,8,19
+2012,rock,classic rock,11,35
+2012,rock,hard rock,27,31
+2012,rock,permanent wave,17,61
+2013,edm,big room,43,23
+2013,edm,electro house,46,1
+2013,edm,pop edm,30,47
+2013,edm,progressive electro house,194,4
+2013,latin,latin hip hop,50,27.5
+2013,latin,latin pop,35,44
+2013,latin,reggaeton,21,32
+2013,latin,tropical,17,56
+2013,pop,dance pop,28,66
+2013,pop,electropop,79,43
+2013,pop,indie poptimism,56,44
+2013,pop,post-teen pop,64,64.5
+2013,r&b,hip pop,21,55
+2013,r&b,neo soul,61,25
+2013,r&b,new jack swing,7,11
+2013,r&b,urban contemporary,27,35
+2013,rap,gangster rap,22,22
+2013,rap,hip hop,2,5.5
+2013,rap,southern hip hop,61,15
+2013,rap,trap,8,41
+2013,rock,album rock,2,50.5
+2013,rock,classic rock,6,46.5
+2013,rock,hard rock,53,37
+2013,rock,permanent wave,23,53
+2014,edm,big room,131,9
+2014,edm,electro house,105,5
+2014,edm,pop edm,69,40
+2014,edm,progressive electro house,259,13
+2014,latin,latin hip hop,68,26
+2014,latin,latin pop,46,44.5
+2014,latin,reggaeton,18,31.5
+2014,latin,tropical,33,52
+2014,pop,dance pop,30,61.5
+2014,pop,electropop,91,37
+2014,pop,indie poptimism,130,41
+2014,pop,post-teen pop,65,63
+2014,r&b,hip pop,46,47.5
+2014,r&b,neo soul,82,20
+2014,r&b,new jack swing,32,6
+2014,r&b,urban contemporary,39,36
+2014,rap,gangster rap,51,29
+2014,rap,hip hop,13,64
+2014,rap,southern hip hop,100,30
+2014,rap,trap,11,45
+2014,rock,album rock,34,38.5
+2014,rock,classic rock,11,46
+2014,rock,hard rock,40,22
+2014,rock,permanent wave,20,53.5
+2015,edm,big room,146,18
+2015,edm,electro house,45,19
+2015,edm,pop edm,151,37
+2015,edm,progressive electro house,120,20.5
+2015,latin,latin hip hop,102,36
+2015,latin,latin pop,47,44
+2015,latin,reggaeton,26,53.5
+2015,latin,tropical,102,46
+2015,pop,dance pop,30,65.5
+2015,pop,electropop,140,57
+2015,pop,indie poptimism,242,35
+2015,pop,post-teen pop,67,67
+2015,r&b,hip pop,45,41
+2015,r&b,neo soul,112,40
+2015,r&b,new jack swing,16,16
+2015,r&b,urban contemporary,74,33
+2015,rap,gangster rap,93,35
+2015,rap,hip hop,39,63
+2015,rap,southern hip hop,82,41.5
+2015,rap,trap,21,56
+2015,rock,album rock,18,18.5
+2015,rock,classic rock,18,14.5
+2015,rock,hard rock,25,54
+2015,rock,permanent wave,18,58
+2016,edm,big room,70,26.5
+2016,edm,electro house,88,36
+2016,edm,pop edm,214,39.5
+2016,edm,progressive electro house,126,18
+2016,latin,latin hip hop,153,41
+2016,latin,latin pop,39,59
+2016,latin,reggaeton,37,55
+2016,latin,tropical,146,40.5
+2016,pop,dance pop,39,64
+2016,pop,electropop,136,62
+2016,pop,indie poptimism,317,39
+2016,pop,post-teen pop,39,64
+2016,r&b,hip pop,52,60
+2016,r&b,neo soul,166,39
+2016,r&b,new jack swing,3,15
+2016,r&b,urban contemporary,130,53
+2016,rap,gangster rap,106,41.5
+2016,rap,hip hop,27,57
+2016,rap,southern hip hop,128,39.5
+2016,rap,trap,34,56
+2016,rock,album rock,9,33
+2016,rock,classic rock,20,2
+2016,rock,hard rock,19,45
+2016,rock,permanent wave,29,57
+2017,edm,big room,32,34.5
+2017,edm,electro house,155,37
+2017,edm,pop edm,158,40
+2017,edm,progressive electro house,141,26
+2017,latin,latin hip hop,148,37.5
+2017,latin,latin pop,57,56
+2017,latin,reggaeton,41,70
+2017,latin,tropical,150,48
+2017,pop,dance pop,81,64
+2017,pop,electropop,162,55.5
+2017,pop,indie poptimism,190,50
+2017,pop,post-teen pop,72,63.5
+2017,r&b,hip pop,132,63
+2017,r&b,neo soul,174,40.5
+2017,r&b,new jack swing,3,8
+2017,r&b,urban contemporary,155,56
+2017,rap,gangster rap,183,37
+2017,rap,hip hop,65,53
+2017,rap,southern hip hop,131,42
+2017,rap,trap,84,55
+2017,rock,album rock,21,11
+2017,rock,classic rock,22,33
+2017,rock,hard rock,43,41
+2017,rock,permanent wave,30,61.5
+2018,edm,big room,56,31
+2018,edm,electro house,302,36
+2018,edm,pop edm,151,45
+2018,edm,progressive electro house,246,37.5
+2018,latin,latin hip hop,214,52
+2018,latin,latin pop,85,71
+2018,latin,reggaeton,76,70.5
+2018,latin,tropical,192,47
+2018,pop,dance pop,228,48.5
+2018,pop,electropop,174,58.5
+2018,pop,indie poptimism,204,53
+2018,pop,post-teen pop,98,73
+2018,r&b,hip pop,137,72
+2018,r&b,neo soul,138,46.5
+2018,r&b,new jack swing,1,58
+2018,r&b,urban contemporary,176,56.5
+2018,rap,gangster rap,163,36
+2018,rap,hip hop,217,50
+2018,rap,southern hip hop,57,42
+2018,rap,trap,268,49
+2018,rock,album rock,8,44
+2018,rock,classic rock,19,42
+2018,rock,hard rock,68,38
+2018,rock,permanent wave,34,55
+2019,edm,big room,652,36
+2019,edm,electro house,674,40
+2019,edm,pop edm,584,52
+2019,edm,progressive electro house,411,42
+2019,latin,latin hip hop,343,72
+2019,latin,latin pop,574,60.5
+2019,latin,reggaeton,396,67
+2019,latin,tropical,566,45
+2019,pop,dance pop,657,56
+2019,pop,electropop,110,44
+2019,pop,indie poptimism,342,53
+2019,pop,post-teen pop,264,71
+2019,r&b,hip pop,510,62.5
+2019,r&b,neo soul,176,46.5
+2019,r&b,new jack swing,2,18.5
+2019,r&b,urban contemporary,419,66
+2019,rap,gangster rap,194,48
+2019,rap,hip hop,757,56
+2019,rap,southern hip hop,68,45
+2019,rap,trap,805,55
+2019,rock,album rock,12,41
+2019,rock,classic rock,105,35
+2019,rock,hard rock,367,36
+2019,rock,permanent wave,93,39
+2020,edm,big room,39,37
+2020,edm,electro house,47,39
+2020,edm,pop edm,65,44
+2020,edm,progressive electro house,33,31
+2020,latin,latin hip hop,21,77
+2020,latin,latin pop,54,45
+2020,latin,reggaeton,26,50.5
+2020,latin,tropical,30,38.5
+2020,pop,dance pop,59,42
+2020,pop,electropop,7,23
+2020,pop,indie poptimism,99,48
+2020,pop,post-teen pop,5,86
+2020,r&b,hip pop,75,43
+2020,r&b,neo soul,3,11
+2020,r&b,urban contemporary,15,51
+2020,rap,gangster rap,5,47
+2020,rap,hip hop,98,55
+2020,rap,trap,56,42
+2020,rock,classic rock,3,41
+2020,rock,hard rock,32,38.5
+2020,rock,permanent wave,13,51
